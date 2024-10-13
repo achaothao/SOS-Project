@@ -1,4 +1,6 @@
 # SOS-Project
-This project is empty (for now) because we are only starting sprint 1.
-Sprint 1 has no code assignment and all is done in a .docx.
-Sprint 1 assignment contain user stories, acceptance criteria, and a Data Flow Diagram.
+Inside "SOSGameTest" folder: test.cpp (this is my unit test code file)
+Inside "src" folder: all my project files for sprint 2
+- SOSGame.h, SOSGame.cpp
+- SOSGameLogic.h, SOSGameLogic.cpp
+- Sprint2.sln (Full project in visual studio)
